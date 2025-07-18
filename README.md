@@ -42,5 +42,5 @@ A live real-time chat app built with **Node.js**, **Express**, and **Socket.IO**
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/59eee351-fbf2-4bc2-af92-b72306de42fc" />
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fe0316a5-3f5f-4af8-b062-677db8be888f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/79143c06-2c3b-4f8f-b401-3e3581984de7" />
 
